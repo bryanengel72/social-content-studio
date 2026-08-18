@@ -1,20 +1,18 @@
 ---
 name: social-content-studio
 description: >
-  Reusable client template for a photography business. Turns one shoot, or a month's plan, into
-  a full run of social content in the photographer's own voice: builds a posting calendar at a
-  realistic cadence, rotates content types so the month isn't thirty identical "look at my photo"
-  posts, drafts platform-native captions with scroll-stopping hooks and a tiered local-first
-  hashtag strategy, and tracks what actually performed so next month is better. Captures the
-  photographer's real voice from sample captions and generates against it, so nothing reads like
-  AI filler. State lives in a content-calendar.csv plus a copy-paste content-plan.md, no database
-  or connectors. Never auto-posts — it drafts, the photographer publishes. Trigger on "write my
-  social posts", "turn this shoot into content", "content calendar", "Instagram captions",
-  "captions for this session", "what should I post", "plan my posts", "a month of content",
-  "reels ideas", "TikTok hooks", "LinkedIn post about this shoot", "hashtags for", "I never post
-  consistently", or "batch my social media". Always use this skill for the full plan-write-track
-  workflow — the cadence and content mix have to be enforced in code, not left to whim, or you
-  end up posting five hero shots and then going dark.
+  Reusable client template for a photography business. Turns one shoot, or a month's plan,
+  into social content in the photographer's own voice: builds a posting calendar at a
+  realistic cadence, rotates content types so the month isn't thirty identical "look at my
+  photo" posts, drafts platform-native captions with scroll-stopping hooks and local-first
+  hashtags, and tracks what performed. Learns the photographer's real voice from sample
+  captions so nothing reads like AI filler. State in a content-calendar.csv plus a copy-paste
+  content-plan.md, no connectors. Never auto-posts — it drafts, the photographer publishes.
+  Trigger on "write my social posts", "turn this shoot into content", "content calendar",
+  "Instagram captions", "a month of content", "reels ideas", "TikTok hooks", "I never post
+  consistently", or "batch my social media". Always use this skill for the full
+  plan-write-track workflow — the cadence and content mix have to run in code, or you post
+  five hero shots and go dark.
 compatibility: >
   No connectors required. Python 3 (standard library only, no pip install) for the two bundled
   scripts. State lives in a plain content-calendar.csv and a content-plan.md the photographer
