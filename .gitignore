@@ -1,0 +1,29 @@
+# ============================================================
+# The photographer's content and plan. Their voice, their
+# calendar, their business. Not for a public repo.
+# ============================================================
+content-calendar*.csv
+content-plan*.md
+social/
+
+# Keep the sample data that ships with the repo
+!examples/
+!examples/*
+
+# LEARNINGS.md holds the calibrated voice and performance data
+# once the skill has run. It ships empty; a used copy is the
+# photographer's. Uncomment the next line in a client clone:
+# LEARNINGS.md
+
+# Config with a real photographer's details
+config.yml
+config.yaml
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+__pycache__/
+*.pyc
