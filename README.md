@@ -31,7 +31,7 @@ You do not need to know how to code, and you do not need to open a terminal.
 
 ### Step 1 — Download the skill
 
-**[Download social-content-studio.zip](https://github.com/bryanengel72/social-content-studio/releases/latest/download/social-content-studio.zip)** — one file, about 34 KB.
+**[Download social-content-studio.zip](https://github.com/bryanengel72/social-content-studio/releases/latest/download/social-content-studio.zip)** — one file, about 29 KB.
 
 **Leave it zipped for now.** Do not double-click it yet. Which path you take
 next decides whether you unzip it at all.
